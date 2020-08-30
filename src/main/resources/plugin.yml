@@ -1,0 +1,5 @@
+name: Normalhealth
+version: ${project.version}
+main: software.angus.normalhealth.Normalhealth
+api-version: 1.16
+description: VIsual health is 20
